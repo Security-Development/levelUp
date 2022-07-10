@@ -1,3 +1,2 @@
-# levelUp
-권한상승
-공부중...
+# levelUP
+Win API LookupPrivilegeValueA()를 이용하여 만든 권한상승 
